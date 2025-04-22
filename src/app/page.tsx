@@ -33,8 +33,6 @@ export default function Home() {
         don&apos;t forget to add one. Just like this.
       </SectionTitle>
 
-      <Video videoId="fZ0D0cnR88E" />
-
       <SectionTitle
         preTitle="Testimonials"
         title="Here's what our customers said"
