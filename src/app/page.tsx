@@ -13,7 +13,7 @@ export default function Home() {
     <Container>
       <Hero />
       <SectionTitle
-        preTitle="Nextly Benefits"
+        preTitle="Nuestros Beneficios"
         title=" Why should you use this landing page"
       >
         Nextly is a free landing page & marketing website template for startups
